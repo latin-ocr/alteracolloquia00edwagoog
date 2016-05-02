@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./alteracolloquia00edwagoog_0006.png"; bbox 0 0 2705 3881; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 400 472 2542 3062">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 400 472 2542 3062">
+     <span class='ocr_line' id='line_1_1' title="bbox 400 472 2542 3062; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 400 472 2542 3062; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1012 3123 1947 3173">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1012 3123 1947 3173">
+     <span class='ocr_line' id='line_1_2' title="bbox 1012 3123 1947 3173; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 1012 3123 1507 3173; x_wconf 88' lang='lat' dir='ltr'>DESIDERIUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1561 3123 1947 3173; x_wconf 87' lang='lat' dir='ltr'>ERASMUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 712 3238 2241 3357">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 712 3238 2241 3357">
+     <span class='ocr_line' id='line_1_3' title="bbox 712 3238 2241 3292; baseline 0.001 -14"><span class='ocrx_word' id='word_1_4' title='bbox 712 3238 857 3279; x_wconf 81' lang='lat' dir='ltr'>From</span> <span class='ocrx_word' id='word_1_5' title='bbox 886 3251 916 3281; x_wconf 84' lang='lat' dir='ltr'><strong>a</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 943 3240 1243 3292; x_wconf 83' lang='lat' dir='ltr'>photograph</span> <span class='ocrx_word' id='word_1_7' title='bbox 1271 3240 1326 3282; x_wconf 83' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_8' title='bbox 1350 3241 1610 3282; x_wconf 81' lang='lat' dir='ltr'>Holbein’s</span> <span class='ocrx_word' id='word_1_9' title='bbox 1638 3240 1824 3291; x_wconf 83' lang='lat' dir='ltr'><strong>picture</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1853 3240 1903 3280; x_wconf 85' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_11' title='bbox 1931 3240 2014 3280; x_wconf 87' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_12' title='bbox 2048 3240 2241 3280; x_wconf 81' lang='lat' dir='ltr'>Louvre</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 821 3306 2135 3357; baseline 0 -10"><span class='ocrx_word' id='word_1_13' title='bbox 821 3307 885 3355; x_wconf 89' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_14' title='bbox 915 3306 1104 3347; x_wconf 81' lang='lat' dir='ltr'>Messrs</span> <span class='ocrx_word' id='word_1_15' title='bbox 1135 3307 1348 3349; x_wconf 80' lang='lat' dir='ltr'><strong>Mansell</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1379 3308 1476 3348; x_wconf 86' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_17' title='bbox 1506 3308 1609 3356; x_wconf 72' lang='lat'>00„</span> <span class='ocrx_word' id='word_1_18' title='bbox 1637 3317 1728 3357; x_wconf 80' lang='lat'>405,</span> <span class='ocrx_word' id='word_1_19' title='bbox 1760 3306 1943 3347; x_wconf 84' lang='lat' dir='ltr'>Oxford</span> <span class='ocrx_word' id='word_1_20' title='bbox 1975 3306 2135 3347; x_wconf 87' lang='lat' dir='ltr'><strong>Street</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
